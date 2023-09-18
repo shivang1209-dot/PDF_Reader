@@ -1,4 +1,6 @@
 # PDF_Reader - Python
 Libraries Used: pyttsx3,PyPDF2
+
 In This Era Of Audiobooks, Let's Innovate And Convert Our PDFs To Audio Files And Listen To The PDFs Instead Of Hurting Your Eyes Staring At Your Screen...
+
 Further Comments Added In The Python Explaining The Statements Step By Step...
